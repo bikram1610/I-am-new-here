@@ -1,2 +1,4 @@
 # I-am-new-here
-My first github repository
+Hi I am Bikram
+<br>
+This is my first github repository
