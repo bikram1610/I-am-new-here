@@ -1,2 +1,2 @@
 # I-am-new-here
-My first github project
+My first github repository
